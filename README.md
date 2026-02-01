@@ -1,7 +1,7 @@
 # 实时基金估值 (Real-time Fund Valuation)
 
 一个基于 Next.js 开发的纯前端基金估值与重仓股实时追踪工具。采用玻璃拟态设计（Glassmorphism），支持移动端适配，且无需后端服务器即可运行。
-预览地址：[https://oceantrees.github.io/real-time-fund/](https://oceantrees.github.io/real-time-fund/)
+预览地址：[https://oceantrees.github.io/Realtime-Fund/](https://oceantrees.github.io/Realtime-Fund/)
 
 ## ✨ 特性
 
